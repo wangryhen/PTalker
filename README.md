@@ -1,6 +1,6 @@
 ## **PTalker**
 
-Official PyTorch implementation for the paper:
+PyTorch implementation for the paper:
 
 > **PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment**, ***ACM MM 2025***.
 >
