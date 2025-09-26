@@ -7,10 +7,10 @@ Official PyTorch implementation for the paper:
 > Bin Wang, Yang Xu, Huan Zhao, Hao Zhang, Zixing Zhang
 
 <p align="center">
-<img src="figure.png" width="75%"/>
+<img src="framework.png" width="75%"/>
 </p>
 
-> We propose PTalker . 
+> Illustration of the proposed PTalker. The input motion sequence is first encoded by the graph attention encoder. Then, the motion style encoder and the motion content encoder extract the motion style and content features. The synchronized raw speech is encoded into audio features and audio style by the audio content encoder and the audio style encoder. The identity style encoder encodes the one-hot vector into the personal style. The motion decoder reconstructs the facial motions.
 
 ## **Environment**
 - Linux
