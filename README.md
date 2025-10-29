@@ -2,7 +2,8 @@
 
 PyTorch implementation for the paper:
 
-> **PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment**, ***ACM MM 2025***.
+> **PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment**, ***ACM MM 2025***.  
+> [Project Page](https://acmmm25p.bwbwiwn.site/) | [PDF](https://dl.acm.org/doi/abs/10.1145/3746027.3755568) 
 >
 > Bin Wang, Yang Xu, Huan Zhao, Hao Zhang, Zixing Zhang
 
