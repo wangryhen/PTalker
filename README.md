@@ -138,11 +138,12 @@ Given the audio signal,
 
 If you find this code useful for your work, please consider citing:
 ```
-@inproceedings{ptalker2025,
-title={PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment},
-author={Wang, Bin and Xu, Yang and Zhao, Huan and Zhang, Hao and Zhang, Zixing},
-booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM)},
-year={2025}
+@inproceedings{wang2025ptalker,
+  title={PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment},
+  author={Wang, Bin and Xu, Yang and Zhao, Huan and Zhang, Hao and Zhang, Zixing},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={10334--10342},
+  year={2025}
 }
 ```
 
